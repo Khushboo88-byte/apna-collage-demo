@@ -1,3 +1,3 @@
 # apna-collage-demo
 This is my first repository
-author=khushboo
+author=khushboo raj
